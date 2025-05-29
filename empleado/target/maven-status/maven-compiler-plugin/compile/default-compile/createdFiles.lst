@@ -1,0 +1,4 @@
+empleado\EmpleadoApplication.class
+empleado\model\UEmpleado.class
+empleado\controller\UEmpleadoController.class
+empleado\repository\UEmpleadoRepository.class
